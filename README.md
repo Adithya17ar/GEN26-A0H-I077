@@ -2,7 +2,7 @@
 
 ## GEN26-A0H-I077
 ### Team Details
-#### **Team Name** <<Insert Your Team Name>> <br/>
+#### **Team Name** Aether
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |      Hostel         |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:|:-------------------:| 
